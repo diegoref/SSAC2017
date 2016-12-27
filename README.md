@@ -1,4 +1,4 @@
-# SSA2016
+# SSAC2017
 Semantic Sentiment Analysis Challenge at ESWC2017
 
 Check the <a href='https://github.com/diegoref/SSA2016/wiki'>wiki</a> page to see more details
